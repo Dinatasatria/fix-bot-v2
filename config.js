@@ -111,11 +111,11 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 global . wm   =   ' Arta Satriadi '   //Tanda Air Utama
 global . wm2   =   '꒷︶꒷꒥꒷ Arta Satriadi'
-global . wm3  =  '⫹⫺ WArta Satriadi '
+global . wm3   =   '⫹⫺ Arta Satriadi'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global . titlebot   =   `⫹⫺ Bot WhatsApp | Oleh Arta Satriadi`
+global . penulis   =   ' Arta Satriadi '
 
 
 /*============== LOGO ==============*/
