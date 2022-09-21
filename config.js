@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  [ '6281353089407' , 'WH MODS DEV' , benar ]
+  [ '6281353089407' , ' Arta Satriadi ' , benar ]
   [ '-' , 'isi_kalau_ada' , benar ],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
